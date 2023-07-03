@@ -46,3 +46,13 @@ This app is deployed on Heroku
 Locate the deployed heroku application here[https://book-search-engi-9d7aff38fa39.herokuapp.com/]
 
 ## Screenshots
+
+<img width="873" alt="Screenshot 2023-07-03 at 08 46 33" src="https://github.com/Ze7Hu/Book-Search-Engine/assets/123417090/a1422b6a-bfce-421c-9c0d-0565b6fd18ee">
+
+<img width="873" alt="Screenshot 2023-07-03 at 08 46 45" src="https://github.com/Ze7Hu/Book-Search-Engine/assets/123417090/15fc8fca-f6c0-44b3-b80a-a5531c15d8ba">
+
+<img width="873" alt="Screenshot 2023-07-03 at 08 58 36" src="https://github.com/Ze7Hu/Book-Search-Engine/assets/123417090/dd5ec91d-6067-4260-977d-302b39b93892">
+
+
+
+
