@@ -43,6 +43,6 @@ Run "npm start" for the port to start listening with mongoose.
 This app is deployed on Heroku
 
 ## Github Pages 
-Locate the deployed herkou application here[]
+Locate the deployed heroku application here[https://book-search-engi-9d7aff38fa39.herokuapp.com/]
 
 ## Screenshots
